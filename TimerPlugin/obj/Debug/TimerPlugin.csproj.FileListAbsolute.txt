@@ -1,0 +1,5 @@
+E:\JasonGuoApplication\TimerPlugin\bin\Debug\TimerPlugin.dll
+E:\JasonGuoApplication\TimerPlugin\bin\Debug\TimerPlugin.pdb
+E:\JasonGuoApplication\TimerPlugin\obj\Debug\ResolveAssemblyReference.cache
+E:\JasonGuoApplication\TimerPlugin\obj\Debug\TimerPlugin.dll
+E:\JasonGuoApplication\TimerPlugin\obj\Debug\TimerPlugin.pdb
